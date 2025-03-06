@@ -10,7 +10,7 @@ Se deberá desarrollar una aplicación donde se demuestren todos los conocimient
 Se permite a los estudiantes elegir el tema de su trabajo y las tecnologías a utilizar, siempre y cuando cumpla con los requisitos generales y aquellos establecidos para cada uno de los módulos.
 
 > [!CAUTION]
-> Si se detecta copia de algún compañero y/o agente externo o código autogenerado por software de terceros, la calificación final del proyecto será suspenso.
+> Si se detecta copia de algún compañero y/o agente externo o código generado por inteligencia artificial o software de terceros, la calificación final del proyecto será suspenso.
 
 ### Generales
 
