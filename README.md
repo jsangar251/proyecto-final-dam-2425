@@ -12,7 +12,7 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 ## Presentaciones
 
-La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. 
+La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio.
 
 La exposición se realizará completamente en castellano.
 
