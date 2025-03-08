@@ -1,6 +1,3 @@
-> [!WARNING]
-> Actualizar contenido.
-
 # Desarrollo de interfaces
 
 ## Requisitos mínimos
@@ -9,11 +6,11 @@ Los criterios mínimos para el proyecto integrado en el módulo “Desarrollo de
 - Crear un informe que aporte valor a los usuarios.
 
 ### Alternativa 1 : Mockup
-Crear un mockup en Excalidraw, draw.io u otra aplicación similar, aplicando los criterios para el desarrollo de interfaces de usuario:
+Crear un mockup en Figma, Excalidraw, draw.io u otra aplicación similar, aplicando los criterios para el desarrollo de interfaces de usuario:
 - Aplicar criterios para la distribución de los componentes de la interfaz.
 - Aplicar criterios de usabilidad y accesibilidad.
 - Asegurar que los distintos actores (en este caso los usuarios) pueden realizar todas las acciones previstas en los casos de uso o en las especificaciones.
-- Si se opta por esta alternativa no es necesario hacer el prototipo en Figma, aunque sí se deberían explicar textualmente la elección final de los colores y la fuente.
+- Si se opta por esta alternativa no es necesario hacer el prototipo (Alternativa 2), aunque sí se deberían explicar textualmente la elección final de los colores y la fuente.
 
 ### Alternativa 2 : Prototipo
 Crear un prototipo en Figma u otra aplicación similar aplicando los criterios para el desarrollo de interfaces de usuario:
