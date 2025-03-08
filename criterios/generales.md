@@ -3,7 +3,7 @@
 
 # Normativa del proyecto
 
-Se deberá desarrollar una aplicación donde se demuestren todos los conocimientos adquiridos a lo largo del Ciclo Formativo. 
+Se deberá desarrollar y desplegar una aplicación web y móvil donde se demuestren todos los conocimientos adquiridos a lo largo del Ciclo Formativo. 
 
 ## Requisitos
 
@@ -14,8 +14,10 @@ Se permite a los estudiantes elegir el tema de su trabajo y las tecnologías a u
 
 ### Generales
 
-- El proyecto se realizará obligatoriamente de manera individual.
+- El proyecto se realizará obligatoriamente en parejas o, en todo caso, de manera individual siempre que el número de alumnos sea impar.
+- La aplicación debe contar con una parte de administración o gestión a la que sólo se puede acceder mediante el rol correspondiente.
 - La aplicación estará en inglés y español, por defecto cogerá el idioma del sistema.
+- Se valorará positivamente la claridad, estructuración, eficiencia y comentarios del código.
 
 ### Módulos
 
@@ -38,22 +40,29 @@ Antes de `fecha por determinar`, los alumnos que estén desarrollando su proyect
 - Ejecutable o enlace a versión desplegada de la aplicación.
 - Vídeo explicativo, de no más de 5 minutos, donde se comente qué características de la aplicación se han desarrollado hasta la fecha, y qué queda por completar.
 
-# Otros aspectos a tener en cuenta
+# Desarrollo
 
-- Se valorará positivamente la claridad, estructuración, eficiencia y comentarios del código.
+Se creará en un repositorio privado de Github dando permiso al profesorado para que pueda tener acceso en todo momento al desarrollo de los proyectos que deberá contener:
+- Código fuente de la aplicación actualizado semanalmente.
+- Título del proyecto.
+- Nombre de los autores del proyecto.
+- Descripción.
+- Objetivos del proyecto.
+- Tecnologías utilizadas.
+- Esquema E/R de la base de datos o en su caso información detallada sobre los
+documentos/colecciones en el caso de bases de datos no relacionales.
+- Breve tutorial de uso de la aplicación con capturas de pantalla y/o material multimedia.
+- URL donde se encuentre desplegada la aplicación.
+- URL donde se encuentre el diseño de la aplicación.
+- Presentación en formato PDF.
+- Bitácora de tareas realizadas donde se indique la fecha en que se completó cada una de ellas y qué miembro del grupo la llevó a cabo.
+- Bibliografía utilizada (manuales, enlaces a documentación, tutoriales, etc.).
+- URL a un vídeo de 5 minutos máximo, donde el alumno exponga brevemente su proyecto y
+muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la
+aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. Se puede enseñar
+código, pero solo fragmentos y si realmente son cosas de interés. El vídeo puede estar colgado en
+plataformas como Youtube, Vimeo, Dailymotion, etc.
 
-- Se valorará positivamente el uso de Trello o similar (Asana, ClickUp, etc.) para la gestión del proyecto.
+El repositorio se deberá actualizar obligatoriamente al menos una vez a la semana.
 
-- Será obligatorio subir el proyecto a GitHub. El repositorio será privado y se deberá invitar a todos los profesores.
 
-- El repositorio debe contener el código fuente de la aplicación y un archivo README con lo siguiente (en el orden indicado):
-    - Título.
-    - Descripción.
-    - Enlace descarga / versión desplegada.
-    - Manual de instalación y dependencias.
-    - Breve tutorial de uso de la aplicación con capturas de pantalla.
-    - Enlace a la presentación en formato PDF.
-    - Vídeo de 10 minutos máximo, donde se exponga brevemente el proyecto y se muestre su funcionamiento. Es muy importante hacer una introducción indicando el nombre del alumno, nombre de la aplicación y de qué trata, antes de pasar a los detalles técnicos. Se puede enseñar código, pero solo fragmentos y si realmente son cosas de interés.
-    - Bibliografía utilizada (manuales, enlaces a documentación, tutoriales, etc.).
-
-- Durante el proceso de desarrollo, obligatoriamente deberá actualizarse el repositorio de Github semanalmente, indicando en el README.md, a modo de diario de trabajo, los avances que se han producido durante la semana en curso. Se deberán añadir: histórico de tareas realizadas, bibliografía utilizada, enlaces a tutoriales o documentación, esquemas de bases de datos, esquemas de diseño (borradores), etc.
