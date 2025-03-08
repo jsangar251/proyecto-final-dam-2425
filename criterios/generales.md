@@ -1,6 +1,3 @@
-> [!WARNING]
-> Actualizar contenido.
-
 # Normativa del proyecto
 
 Se deberá desarrollar y desplegar una aplicación web y móvil donde se demuestren todos los conocimientos adquiridos a lo largo del Ciclo Formativo. 
@@ -17,7 +14,7 @@ Se permite a los estudiantes elegir el tema de su trabajo y las tecnologías a u
 - El proyecto se realizará obligatoriamente en parejas o, en todo caso, de manera individual siempre que el número de alumnos sea impar.
 - La aplicación debe contar con una parte de administración o gestión a la que sólo se puede acceder mediante el rol correspondiente.
 - La aplicación estará en inglés y español, por defecto cogerá el idioma del sistema.
-- Se valorará positivamente la claridad, estructuración, eficiencia y comentarios del código.
+- Se valorará positivamente la claridad, estructuración, eficiencia y comentarios del código, así como el uso del inglés en la documentación y/o exposición final.
 
 ### Módulos
 
