@@ -13,5 +13,5 @@ Para cumplir los requisitos del módulo Programación Multimedia y Dispositivos 
 - [x] Gestionar los inicios de sesión de los usuarios sin perjudicar su experiencia de uso (renovación automática de tokens).
 - [x] Opcionalmente, utilizar componentes del dispositivo: cámara, sensores u otros y gestionar los permisos para su utilización.
 
-> [!NOTE] askjdhfasdf
+> [!NOTE]: askjdhfasdf
 > aksjdfkasjh
