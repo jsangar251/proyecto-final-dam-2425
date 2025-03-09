@@ -13,4 +13,4 @@ Para cumplir con los módulos de Acceso a Datos y Horas de Libre Configuración,
 - Funcionalidad en tiempo real, implementada mediante WebSockets u otra tecnología adecuada, permitiendo la actualización instantánea de datos en la aplicación.
 
 > [!WARNING]
-> Si el proyecto presentado es similar a los desarrollados en clase, se deberá utilizar un lenguaje de programación distinto para desarrollar el servidor. En caso contrario, se aplicará una penalización en la calificación.
+> Si el proyecto presentado es similar a los desarrollados en clase, se deberá utilizar lenguajes de programación distintos a los de clase tanto para desarrollar el cliente como el servidor. En caso contrario, se aplicará una penalización en la calificación.
