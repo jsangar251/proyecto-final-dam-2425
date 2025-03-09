@@ -13,4 +13,4 @@ Para cumplir con los requisitos del módulo de Programación Multimedia y Dispos
 - [x] Opcionalmente, utilizar componentes del dispositivo: cámara, sensores u otros y gestionar los permisos para su utilización.
 
 > [!NOTE]
-> Si quisieras desarrollar un videojuego, ponte en contacto con el profesor. Te en cuenta que deberá poder ejecutarse en una plataforma móvil y que habrá de cumplir con la mayoría de los requisitos antes listados (los que se le puedan aplicar).
+> Si quisieras desarrollar un videojuego, ponte en contacto con el profesor. Ten en cuenta que deberá poder ejecutarse en una plataforma móvil y que habrá de cumplir con la mayoría de los requisitos antes listados (los que se le puedan aplicar).
