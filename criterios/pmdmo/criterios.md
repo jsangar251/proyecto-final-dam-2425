@@ -12,3 +12,6 @@ Para cumplir los requisitos del módulo Programación Multimedia y Dispositivos 
 - [x] Emplear / aplicar persistencia de datos: ya sea almacenando preferencias (con DataStore o similar) o utilizando una base de datos local (a través de Room, por ejemplo).
 - [x] Gestionar los inicios de sesión de los usuarios sin perjudicar su experiencia de uso (renovación automática de tokens).
 - [x] Opcionalmente, utilizar componentes del dispositivo: cámara, sensores u otros y gestionar los permisos para su utilización.
+
+> [!NOTE] askjdhfasdf
+> aksjdfkasjh
