@@ -1,6 +1,6 @@
 # Programación de servicios y procesos
 
-Para cumplir con los requisitos del módulo de Programación de Servicios y Procesos, la aplicación a desarrollar deberá:
+Para cumplir con los requisitos del módulo de Programación de Servicios y Procesos, el proyecto a desarrollar deberá:
 
 - [x] Seguir un modelo cliente / servidor.
 - [x] La parte cliente empleará, preferentemente, una interfaz gráfica de usuario (GUI) y hará uso, además, de múltiples hebras (o corrutinas).
