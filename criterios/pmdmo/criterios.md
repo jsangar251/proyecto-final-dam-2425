@@ -1,8 +1,7 @@
 # Programación multimedia y dispositivos móviles
 
-Para cumplir los requisitos del módulo Programación Multimedia y Dispositivos Móviles, la aplicación móvil o videojuego a desarrollar deberá:
+Para cumplir con los requisitos del módulo de Programación Multimedia y Dispositivos Móviles, la aplicación móvil a desarrollar deberá:
 
-- [x] Poder ejecutarse en una plataforma móvil.
 - [x] Ofrecer una interfaz gráfica de usuario (GUI) que sea atractiva y favorezca la usabilidad de la aplicación (uso de menús / cajones de navegación, pestañas, animaciones / iconos / imágenes, insignias, diálogos / toasts / snackbars, campos de texto y listados que puedan desplazarse, etc.).
 - [x] Personalizar el estilo de la aplicación (esquemas de colores para modo claro y oscuro, formas, temas y tipografías).
 - [x] Emplear en los componentes visuales los estilos definidos por Google (Material Design).
@@ -14,4 +13,4 @@ Para cumplir los requisitos del módulo Programación Multimedia y Dispositivos 
 - [x] Opcionalmente, utilizar componentes del dispositivo: cámara, sensores u otros y gestionar los permisos para su utilización.
 
 > [!NOTE]
-> aksjdfkasjh
+> Si quisieras desarrollar un videojuego, ponte en contacto con el profesor. Te en cuenta que deberá poder ejecutarse en una plataforma móvil y que habrá de cumplir con la mayoría de los requisitos antes listados (los que se le puedan aplicar).
