@@ -1,6 +1,6 @@
 # Programación multimedia y dispositivos móviles
 
-Para cumplir los requisitos del módulo Programación Multimedia y Dispositivos Móviles, la aplicación móvil a desarrollar deberá:
+Para cumplir los requisitos del módulo Programación Multimedia y Dispositivos Móviles, la aplicación móvil o videojuego a desarrollar deberá:
 
 - [x] Poder ejecutarse en una plataforma móvil.
 - [x] Ofrecer una interfaz gráfica de usuario (GUI) que sea atractiva y favorezca la usabilidad de la aplicación (uso de menús / cajones de navegación, pestañas, animaciones/iconos/imágenes, insignias, diálogos/toasts/snackbars, campos de texto y listados que pueden desplazarse, etc.).
@@ -9,6 +9,6 @@ Para cumplir los requisitos del módulo Programación Multimedia y Dispositivos 
 - [x] Ofrecer la posibilidad de utilizar la aplicación tanto en castellano como en inglés.
 - [x] Seguir una arquitectura Model-View-ViewModel (MVVM) en el diseño de la aplicación.
 - [x] Precisar del consumo de APIs (con Retrofit, por ejemplo).
-- [x] Emplear/aplicar persistencia de datos: ya sea almacenando preferencias (con DataStore o similar) o utilizando una base de datos (a través de Room, por ejemplo).
+- [x] Emplear/aplicar persistencia de datos: ya sea almacenando preferencias (con DataStore o similar) o utilizando una base de datos local (a través de Room, por ejemplo).
 - [x] Gestionar los inicios de sesión de los usuarios sin perjudicar su experiencia de uso (renovación automática de tokens).
 - [x] Opcionamente, utilzar componentes del disipositivo: cámara, sensores u otros y gestionar los permisos para su utilización.
