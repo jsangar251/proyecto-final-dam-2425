@@ -19,7 +19,7 @@ La exposición se realizará completamente en castellano.
 El alumno deberá explicar por sí mismo el funcionamiento de la aplicación y no podrá apoyarse en vídeos autoexplicativos.
 
 ## Profesores 
-La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada turno.
+La siguiente lista cuenta con los usuarios de GitHub de los profesores.
 * [Fernando Parra Zurita](https://github.com/fparzur) 
 * [Javier Úbeda Vázquez](https://github.com/jubevaz228)
 * [José Santos Garrido](https://github.com/jsangar251)
