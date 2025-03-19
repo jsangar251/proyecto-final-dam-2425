@@ -27,10 +27,10 @@ Se permite a los estudiantes elegir el tema de su trabajo y las tecnologías a u
 
 # Anteproyecto
 
-Se deberá presentar obligatoriamente un anteproyecto antes del `fecha por determinar` donde se especifique, en términos generales, los objetivos del proyecto, temática, título, tecnologías utilizadas y un borrador de la aplicación. Si en el plazo de una semana, el profesorado de 2º DAM no ha reportado ninguna incidencia, el alumno podrá proseguir con su proyecto.
+Se deberá presentar obligatoriamente un anteproyecto antes del `31 de marzo` donde se especifique, en términos generales, los objetivos del proyecto, temática, título, tecnologías utilizadas y un borrador de la aplicación. Si en el plazo de una semana, el profesorado de 2º DAM de tarde no ha reportado ninguna incidencia, el alumno podrá proseguir con su proyecto.
 
 # Horizonte de sucesos (revisión)
-Antes de `fecha por determinar`, los alumnos que estén desarrollando su proyecto final de ciclo, deberán subir obligatoriamente a Github una primera versión funcional del proyecto, además de:
+Antes de `30 de abril`, los alumnos que estén desarrollando su proyecto final de ciclo, deberán subir obligatoriamente a Github una primera versión funcional del proyecto, además de:
 
 - Código actualizado.
 - Histórico de cambios, bibliografía, etc., en el README.md
