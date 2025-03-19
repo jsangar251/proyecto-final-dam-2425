@@ -18,6 +18,13 @@ La exposición se realizará completamente en castellano.
 
 El alumno deberá explicar por sí mismo el funcionamiento de la aplicación y no podrá apoyarse en vídeos autoexplicativos.
 
+## Profesores 
+La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada turno.
+* [Fernando Parra Zurita](https://github.com/fparzur) 
+* [Javier Úbeda Vázquez](https://github.com/jubevaz228)
+* [José Santos Garrido](https://github.com/jsangar251)
+* [Juan Manuel López García](https://github.com/juanmanuel-5)
+
 ## Relación de proyectos
 
 A continuación se listan los enlaces a los repositorios de GitHub donde están los proyectos. 
@@ -33,10 +40,10 @@ Convocatoria extraordinaria:
 # Calendario período ordinario
 
 ## 🗓️ Fechas a tener en cuenta
-* Anteproyecto: `por determinar`
-* Revisión (checkpoint): `por determinar`
-* Entrega de proyecto: `por determinar`
-* Exposiciones: `por determinar`
+* Anteproyecto: `31 de marzo`
+* Revisión (checkpoint): `30 de abril`
+* Entrega de proyecto: `13 de junio`
+* Exposiciones: `semana del 16 al 20 de junio`
 
 ## ⏰ Cuadrante horario de las exposiciones
 
