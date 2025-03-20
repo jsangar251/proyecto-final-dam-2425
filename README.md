@@ -32,9 +32,7 @@ A continuación se listan los enlaces a los repositorios de GitHub donde están 
 Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** junto con el **título del proyecto**, seguido de un **enlace directo al repositorio** (no a la página de Github del alumno). 
 Cada alumno debe editar este fichero y hacer una pull request a este repositorio para incluir sus datos. Se ruega respetar el orden de lista.
 
-* Apellidos, Nombre - [Nombre repositorio](link repo)
-
-| Proyecto | Alumno(s) |
+| Proyecto | Alumnos |
 |-----------------------------------------------------------------------------------| ---------------------------|
 | [Proyecto](https://github.com/moguism/tfg-dam-moshiro)                            | Gonfaus Luengo, Rocío Alejandra <br/> Rosales Román, María <br/> Rosso Aboy, Mauricio |
 | [Proyecto]()                                                                      | Cuenca Calderón, Daniel <br/> Siles España, Francisco |
