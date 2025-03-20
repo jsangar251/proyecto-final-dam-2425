@@ -34,6 +34,16 @@ Cada alumno debe editar este fichero y hacer una pull request a este repositorio
 
 * Apellidos, Nombre - [Nombre repositorio](link repo)
 
+| Proyecto | Alumno(s) |
+|-----------------------------------------------------------------------------------| ---------------------------|
+| [Proyecto](https://github.com/moguism/tfg-dam-moshiro)                            | Gonfaus Luengo, Rocío Alejandra <br/> Rosales Román, María <br/> Rosso Aboy, Mauricio |
+| [Proyecto]()                                                                      | Cuenca Calderón, Daniel <br/> Siles España, Francisco |
+| [Proyecto]()                                                                      | Gálvez Madueño, Alejandro <br/> Muñoz Marín, Manuel José |
+| [Proyecto]()                                                                      | Cabello Sánchez, Alba <br/> Rico Navarro, Javier |
+| [Proyecto]()                                                                      | Carmona Gálvez, Adrián <br/> Domínguez García, Héctor |
+
+https://github.com/moguism/tfg-dam-moshiro
+
 ----------------------------------
 Convocatoria extraordinaria:
 
