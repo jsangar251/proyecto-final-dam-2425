@@ -41,7 +41,7 @@ Cada alumno debe editar este fichero y hacer una pull request a este repositorio
 | [Proyecto](https://github.com/Adricarmona/TFG_ImplodingRacoon/tree/main)          | Carmona Gálvez, Adrián <br/> Domínguez García, Héctor |
 | [Proyecto](https://github.com/pacobarrionuevo/TFG_PacoSalguero)                   | Barrionuevo Flores, Francisco <br/> Salguero Abad, Jorge |
 | [Proyecto]()                                                                      | Burgos Belgrano, Adolfo Javier <br/> Ruiz Azuar, Gonzalo |
-| [Proyecto]()                                                                      | González Grelaud, José Noé <br/> Martín García, David |
+| [Proyecto](https://github.com/GarciByte/TFG_MagicApp/tree/main)                   | González Grelaud, José Noé <br/> Martín García, David |
 
 ----------------------------------
 Convocatoria extraordinaria:
