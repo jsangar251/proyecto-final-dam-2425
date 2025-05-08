@@ -36,8 +36,8 @@ Cada alumno debe editar este fichero y hacer una pull request a este repositorio
 |-----------------------------------------------------------------------------------| ---------------------------|
 | [Chokart](https://github.com/moguism/Chokart)                                     | Rosales Román, María <br/> Rosso Aboy, Mauricio |
 | [Talleres Millenium](https://github.com/dcuecal515/TalleresMilleniumRep)          | Cuenca Calderón, Daniel <br/> Siles España, Francisco |
-| [Training zone](https://github.com/manugym/training-zone)                         | Gálvez Madueño, Alejandro <br/> Muñoz Marín, Manuel José |
-| [Fast fork](https://github.com/javirkdev/fast-fork)                               | Cabello Sánchez, Alba <br/> Rico Navarro, Javier |
+| [TrainingZone](https://github.com/manugym/training-zone)                         | Gálvez Madueño, Alejandro <br/> Muñoz Marín, Manuel José |
+| [Fast Fork](https://github.com/javirkdev/fast-fork)                               | Cabello Sánchez, Alba <br/> Rico Navarro, Javier |
 | [Imploding Raccons](https://github.com/Adricarmona/TFG_ImplodingRacoon/tree/main) | Carmona Gálvez, Adrián <br/> Domínguez García, Héctor |
 | [Sanitarios App](https://github.com/pacobarrionuevo/TFG_PacoSalguero)             | Barrionuevo Flores, Francisco <br/> Salguero Abad, Jorge |
 | [Glove of Glory](https://github.com/Fito-9/Glove-of-Glory)                        | Burgos Belgrano, Adolfo Javier <br/> Ruiz Azuar, Gonzalo |
