@@ -56,7 +56,7 @@ Convocatoria extraordinaria:
 * Exposiciones: `Miércoles 18 de junio a las 15:15`
 
 ## ⏰ Cuadrante horario de las exposiciones
-
+Se expodrá en orden aleatorio. Dicho orden se publicará al comienzo de las exposiciones.
 
 # Calendario período extraordinario
 
